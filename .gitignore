@@ -1,0 +1,10 @@
+/.idea
+/IRC
+/__pycache__
+/baseline_features_dev.tsv
+/baseline_features_train.tsv
+/chat.pdf
+/disentangle.py
+/new_features_dev.tsv
+/new_features_train.tsv
+/old_feature_data

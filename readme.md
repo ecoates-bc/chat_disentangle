@@ -28,7 +28,7 @@ The data is available [here.](https://www.asc.ohio-state.edu/elsner.14/resources
 - `featurize.py`: Classes for preprocessing, featurizing, and embedding lookups.
 - `models.py`: Classes for the Classifier and Partitioner models.
 
-### Libraties used
+### Libraries used
 - numpy
 - sklearn
 - torch

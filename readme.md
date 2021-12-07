@@ -35,5 +35,5 @@ The data is available [here.](https://www.asc.ohio-state.edu/elsner.14/resources
 - nltk (word_tokenize function)
 - scipy (cosine function)
 
-## Reference
+## References
 M. Elsner and E. Charniak. (2008). You Talking to Me? A Corpus and Algorithm for Conversation Disentanglement. In Proceedings of ACL-08: HLT
